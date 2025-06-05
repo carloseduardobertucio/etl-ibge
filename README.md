@@ -30,18 +30,6 @@ python src/extract.py
 
 The data will be saved in the `data/raw` directory.
 
-## Project Structure
-
-```
-.
-├── data/                   # Data directory
-│   ├── raw/               # Raw data from extraction
-│   └── processed/         # Processed data
-├── src/                   # Source code
-│   └── extract.py         # Data extraction script
-└── requirements.txt       # Project dependencies
-```
-
 ## Data Source
 
 This project uses data from IBGE's API:
