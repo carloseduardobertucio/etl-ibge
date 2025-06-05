@@ -1,0 +1,27 @@
+# Diretórios de dados
+data/
+data/raw/
+data/processed/
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de log
+*.log 
