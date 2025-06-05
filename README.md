@@ -1,4 +1,4 @@
-# Brazilian States and Cities Data Project
+
 
 A simple Python project that extracts data about Brazilian states and cities from IBGE's API.
 
